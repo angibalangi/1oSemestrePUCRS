@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1oSemestrePUCRS.iml" filepath="$PROJECT_DIR$/.idea/1oSemestrePUCRS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doWhile/doWhile.iml" filepath="$PROJECT_DIR$/doWhile/doWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientacaoObjetos/orientacaoObjetos.iml" filepath="$PROJECT_DIR$/orientacaoObjetos/orientacaoObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simulados/simulados.iml" filepath="$PROJECT_DIR$/simulados/simulados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
