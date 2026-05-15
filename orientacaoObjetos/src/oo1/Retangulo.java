@@ -1,15 +1,15 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class retangulo {
+package oo1;
+
+public class Retangulo {
     private double base;
     private double altura;
 
-    public retangulo(){
+    public Retangulo(){
         base = 1.0;
         altura = 0.5;
     }
 
-    public retangulo(double base, double altura){
+    public Retangulo(double base, double altura){
         this.base = base;
         this.altura = altura;
     }

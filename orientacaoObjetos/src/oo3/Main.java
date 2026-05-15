@@ -1,5 +1,7 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+package oo3;
+
+import oo3.Carro;
+
 public class Main {
     public static void main(String[] args) {
         Carro c1 = new Carro();
